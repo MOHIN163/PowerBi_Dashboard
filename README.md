@@ -39,7 +39,7 @@ View Templates
 
 (Replace with your actual GitHub link after uploading.)
 
-Report Snapshots
+Report Snapshots-https://github.com/MOHIN163/PowerBi_Dashboard/blob/main/Adventurework_Snapshot.PNG
 
 Preview images of the dashboards are included for a quick look at the reports without opening the templates.
 View Snapshots
