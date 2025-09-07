@@ -1,6 +1,6 @@
 Maven Analytics AdventureWorks Reports
 
-This repository showcases a series of reports and dashboards developed using the AdventureWorks dataset provided by Maven Analytics. The project demonstrates the end-to-end process of working with raw data, transforming it into a reliable model, and delivering insights through clear and interactive visualizations. It is designed both as a portfolio project and as a practical reference for business intelligence best practices.
+This repository showcases a series of interactive dashboards and reports developed using the AdventureWorks dataset provided by Maven Analytics. The project demonstrates the complete workflow of working with raw data, preparing it for analysis, building a reliable data model, and presenting actionable insights through visualizations
 
 Project Objectives
 
