@@ -35,7 +35,7 @@ Customer segmentation analysis pointed to high-value groups with strong repeat p
 Accessing the Templates
 
 Report templates and supporting files are stored in this repository.
-View Templates
+View Templates-https://github.com/MOHIN163/PowerBi_Dashboard/blob/main/AdventureWorks%20Report_Complete_Mohin.pbit
 
 (Replace with your actual GitHub link after uploading.)
 
